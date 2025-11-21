@@ -1,7 +1,7 @@
 # Ex01 Django ORM Web Application
 ## Date: 
 
-## AIM
+## AIM:
 To develop a Django Application to store and retrieve data from a E-Commerce Website Database for Amazon or Flipkart using Object Relational Mapping(ORM).
 
 ## ENTITY RELATIONSHIP DIAGRAM
