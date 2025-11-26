@@ -56,7 +56,7 @@ admin.site.register(shopping,shoppingAdmin)
 
 
 ## OUTPUT
-![alt text](<Screenshot (15).png>)
+![alt text](image.png)
 
 
 ## RESULT
